@@ -1,0 +1,43 @@
+
+.card {
+    margin-top: 20px;
+    border: none;
+    border-radius: 8px;
+    /* background: url('../../images/circles.png') no-repeat, linear-gradient(to right, #A74CF2, #617BFB); */
+}
+
+.User-Card {
+    max-height: 140px;
+    max-width: 520px;
+}
+
+.User-Card-Info {
+    padding-left: 0;
+    padding-right: 75px;
+}
+
+.User-Card-Info h1{
+    font-size: 23px;
+    color: white;
+}
+
+.User-Card-Info h2{
+    font-size: 18px;
+    color: white;
+}
+
+.User-Card-Info p{
+    font-size: 15px;
+    color: white;
+}
+
+.User-Add {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 80px;
+    height: 60px;
+}
+
+.hidden { display:none; }
